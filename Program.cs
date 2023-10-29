@@ -1,5 +1,3 @@
-﻿using System.Runtime.InteropServices;
-
 double x;
 double y;
 
